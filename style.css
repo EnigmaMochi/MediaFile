@@ -4,13 +4,13 @@
 }
 @font-face {
     font-family: "Mochi";
-    src: url(EgoshicRegular-0vvld.ttf) format("truetype");
+    src: url(Font/EgoshicRegular-0vvld.ttf) format("truetype");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: "Lyrics";
-    src: url(Grip-p7WZv.otf) format("opentype");
+    src: url(lyric-font/Grip-p7WZv.otf) format("opentype");
     font-style: normal;
     font-weight: normal;
 }
